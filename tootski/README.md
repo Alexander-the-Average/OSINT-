@@ -34,6 +34,8 @@ $ pip install -r requirements.txt
 
 ## Usage
 
+NOTE: USE WINDOWS COMMAND PROMPT TO EXECUTE THE PROGRAM
+
 Open Command prompt and run:
 
 runme.py
